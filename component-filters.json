@@ -1,9 +1,7 @@
 [
   {
     "id": "main",
-    "components": [
-      "section"
-    ]
+    "components": ["section"]
   },
   {
     "id": "section",
@@ -28,35 +26,28 @@
       "cookie",
       "errorpage",
       "age-gate",
-       "page-header",
+      "page-header",
       "page-grid-component",
       "yesno-tile",
-      "presslisting"
+      "presslisting",
+      "quote"
     ]
   },
   {
     "id": "tabs",
-    "components": [
-      "tab"
-    ]
+    "components": ["tab"]
   },
   {
     "id": "cards",
-    "components": [
-      "card"
-    ]
+    "components": ["card"]
   },
   {
     "id": "columns",
-    "components": [
-      "column"
-    ]
+    "components": ["column"]
   },
   {
     "id": "carousel",
-    "components": [
-      "slide"
-    ]
+    "components": ["slide"]
   },
   {
     "id": "column",
